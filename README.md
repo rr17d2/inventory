@@ -1,2 +1,2 @@
 # inventory
-Building a inventory management system from scratch using the ASP .NET Core framework with MVC.  
+Building an inventory management system from scratch using the ASP .NET Core framework with MVC.  
